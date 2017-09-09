@@ -23,7 +23,7 @@ description: The ketogenic diet simplified!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About the site: "aboutme"
  # Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
