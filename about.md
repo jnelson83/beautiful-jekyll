@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Keto Compendium
+title: About
 subtitle: null
 published: true
 ---
